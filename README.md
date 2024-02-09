@@ -170,15 +170,17 @@ CrowdSense goes beyond basic crowd counting by employing advanced behavioral ana
 Follow these steps to install and set up the crowd detection system:
 <ul>
  <li>Set Up Python Environment:</li>
+   <br>
   - Install Python on your system if not already installed. You can download it from the official <b> Python website.</b>
   <br>
+  
   <li>Install Required Libraries:</li><br>
   
   - Install OpenCV and TensorFlow using pip:
 
-      pip install opencv
+      pip install opencv <br>
       pip install tensorflow
-
+    <br>
   
   <li>Download Pre-trained Models:</li>
 
