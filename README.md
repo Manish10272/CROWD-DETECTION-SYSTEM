@@ -1,4 +1,6 @@
 <a name="readme-top"></a>
+
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -7,6 +9,11 @@
   </a>
 
   <h1 align="center">CROWD DETECTION SYSTEM</h1>
+
+    <a href="https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git"><strong>View Demo » </strong></a>
+    ||
+    <a href=""https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git""><strong>Explore the docs » </strong></a>
+  </p>
  
  <p align="Justify">
    In the present environment, where technology and artificial intelligence is an emerging edge of evolution for the world that human live in. There is a wide research going on in the field of crowd                  behavior analysis, through which many problems that result in loss to human security and property are being dealt with.
@@ -133,22 +140,27 @@ For example, using pip for <h3>TensorFlow:</h3>
 
 
 
-
-
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+<h5>Follow these steps to install and set up the crowd detection system:</h5>
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
+1. Clone the Repository:
+
+git clone https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git
+
+2. Navigate to the Project Directory:
+
+cd Crowd-Detection-System
+
+3. Install Python Packages:
+
+pip install -r requirements.txt
+
+5. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+6. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
