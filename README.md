@@ -119,7 +119,20 @@ Install Python (if not already installed) from python.org.
 
   For example, using pip for <h3>TensorFlow:</h3>
 
-  pip install tensorflow
+  <mark>pip install tensorflow </mark>
+
+* Computer Vision Library:
+  Install OpenCV for image processing and computer vision tasks:
+
+  <mark>pip install opencv-python </mark>
+
+* Other Dependencies:
+  Depending on the specific requirements of your project, install additional libraries such as keras etc:
+
+  <mark> pip install keras </mark>
+
+
+
 
 
 ### Installation
