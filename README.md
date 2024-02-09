@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git">
-    <img src="Logo/image.jpg" alt="Logo" width="200" height="150">
+    <img src="Logo/image.jpg" alt="Logo" width="300" height="250">
   </a>
 
 <div align="center">
