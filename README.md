@@ -171,8 +171,7 @@ Follow these steps to install and set up the crowd detection system:
 <ul>
  <li>Set Up Python Environment:</li><br>
   - Install Python on your system if not already installed. You can download it from the official <b> Python website.</b>
-  
-  <br>
+
   
   <li>Install Required Libraries:</li><br>
   
@@ -182,31 +181,31 @@ Follow these steps to install and set up the crowd detection system:
       pip install tensorflow
     <br>
   
-  <li>Download Pre-trained Models:</li>
+  <li>Download Pre-trained Models:</li><br>
 
   - Choose a pre-trained model for crowd detection. For example, you can use a MobileNet SSD model trained on the COCO dataset.
   <br>
 
-  <li>Write Crowd Detection Code: </li>
+  <li>Write Crowd Detection Code: </li><br>
 
   - Create a Python script or Jupyter notebook to perform crowd detection using OpenCV and TensorFlow. Load the pre-trained model, process video frames, and detect crowds.
  
   <br>
 
-  <li>Test Your Crowd Detection System:  </li>
+  <li>Test Your Crowd Detection System:  </li><br>
 
   - Use sample videos or webcam input to test your crowd detection system.
 
   <br>
   
-   <li>Documentation and Deployment:  </li>
+   <li>Documentation and Deployment:  </li><br>
    
   - Document your code, including details on how to use it, dependencies, and potential configuration options.
   - If applicable, consider deploying your crowd detection system in a production environment.
    
   <br>
   
-  <li>Share and Collaborate:  </li>
+  <li>Share and Collaborate:  </li><br>
     
   - Share your project on platforms like GitHub to allow collaboration and feedback from the community. 
 
