@@ -93,10 +93,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- GETTING STARTED -->
 ## Getting Started
+<p align="Justify">
+A crowd detection system significantly benefits society by enhancing public safety, optimizing resource management, and contributing to efficient urban planning. By leveraging advanced technologies such as surveillance cameras and machine learning algorithms, these systems can monitor and analyze crowd dynamics in real-time. This capability is crucial in preventing overcrowding, identifying potential security threats, and enabling timely responses to emergencies. In crowded public spaces, transportation hubs, or events, the system aids in optimizing crowd flow, reducing congestion, and ensuring a safer and more organized environment. Moreover, the insights provided by crowd detection systems contribute to smarter urban planning, aiding authorities in making informed decisions for infrastructure development and public space management. Overall, these systems play a pivotal role in creating safer, more resilient communities and supporting the effective functioning of public spaces.
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
+</p>
 ### Prerequisites
 
 Ensure you have the following prerequisites before setting up the crowd detection system:
