@@ -112,9 +112,7 @@ To get a local copy up and running follow these simple example steps.
 
 Ensure you have the following prerequisites before setting up the crowd detection system:
 * Python:
-  ```sh
 Install Python (if not already installed) from python.org.
-  ```
 
 ### Installation
 
