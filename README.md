@@ -92,6 +92,12 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Python][Python.shield]][Python.url]
 * [![Keras][Keras.shield]][Keras.url]
 * [![TensorFlow][TensorFlow.shield]][TensorFlow.url]
+* [![Machine Learning Algorithms][ML.shield]][ML.url]
+* [![Camera Technologies][Camera.shield]][Camera.url]
+* [![Sensor Technologies][Sensor.shield]][Sensor.url]
+* [![Cloud Computing][Cloud.shield]][Cloud.url]
+* [![Human-Computer Interaction (HCI)][HCI.shield]][HCI.url]
+
 
 
 
@@ -235,4 +241,19 @@ Use this space to list resources you find helpful and would like to give credit 
 [TensorFlow.shield]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 [TensorFlow.url]: https://www.tensorflow.org/
 
+<!-- Additional Technologies Shields and URLs -->
+[ML.shield]: https://img.shields.io/badge/Machine_Learning_Algorithms-4285F4?style=for-the-badge&logo=google&logoColor=white
+[ML.url]: #  <!-- Replace with the appropriate link -->
+
+[Camera.shield]: https://img.shields.io/badge/Camera_Technologies-00ACC1?style=for-the-badge&logo=camera&logoColor=white
+[Camera.url]: #  <!-- Replace with the appropriate link -->
+
+[Sensor.shield]: https://img.shields.io/badge/Sensor_Technologies-009688?style=for-the-badge&logo=sensor&logoColor=white
+[Sensor.url]: #  <!-- Replace with the appropriate link -->
+
+[Cloud.shield]: https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
+[Cloud.url]: #  <!-- Replace with the appropriate link -->
+
+[HCI.shield]: https://img.shields.io/badge/Human_Computer_Interaction-673AB7?style=for-the-badge&logo=human&logoColor=white
+[HCI.url]: #  <!-- Replace with the appropriate link -->
 
