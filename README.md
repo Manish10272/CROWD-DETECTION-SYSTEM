@@ -110,10 +110,10 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Ensure you have the following prerequisites before setting up the crowd detection system:
+* Python:
   ```sh
-  npm install npm@latest -g
+Install Python (if not already installed) from python.org.
   ```
 
 ### Installation
