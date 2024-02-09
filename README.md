@@ -14,6 +14,8 @@
     <br />
     <br />
     <br />
+    </p>
+  <p align="center">
     <a href="https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git"><strong>View Demo » </strong></a>
     ||
     <a href=""https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git""><strong>Explore the docs » </strong></a>
