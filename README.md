@@ -94,7 +94,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 <p align="Justify">
-CrowdSense is an innovative <P><STRONG>Crowd Detection Systems</STRONG> designed to enhance public safety and optimize urban planning by leveraging advanced technologies. Integrating Computer Vision and Deep Learning, CrowdSense gathers and processes real-time data from surveillance cameras and other sensors to monitor and analyze crowd dynamics. Unlike conventional systems that provide generic crowd information, CrowdSense tailors its insights based on specific environmental factors and user-defined parameters.
+CrowdSense is an innovative Crowd Detection Systems designed to enhance public safety and optimize urban planning by leveraging advanced technologies. Integrating Computer Vision and Deep Learning, CrowdSense gathers and processes real-time data from surveillance cameras and other sensors to monitor and analyze crowd dynamics. Unlike conventional systems that provide generic crowd information, CrowdSense tailors its insights based on specific environmental factors and user-defined parameters.
 
 </P>
 <br>
