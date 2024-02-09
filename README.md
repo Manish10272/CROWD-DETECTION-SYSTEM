@@ -180,10 +180,9 @@ CrowdSense goes beyond basic crowd counting by employing advanced behavioral ana
     
     Install OpenCV and TensorFlow using pip:
 
-      <b> pip install opencv </b>
-      <b> pip install tensorflow </b>
+      pip install opencv
+      pip install tensorflow
   
-  <br>
   <li>Download Pre-trained Models:
 
   Choose a pre-trained model for crowd detection. For example, you can use a MobileNet SSD model trained on the COCO dataset.
@@ -210,11 +209,10 @@ CrowdSense goes beyond basic crowd counting by employing advanced behavioral ana
   </li>
   <br>
 
-     <li>Share and Collaborate:
+     <li>Share and Collaborate:  </li>
 
      Share your project on platforms like GitHub to allow collaboration and feedback from the community.
    
-  </li>
   <br>
   
 </ol>
