@@ -6,9 +6,6 @@
     <img src="Logo/image.jpg" alt="Logo" width="300" height="250">
   </a>
 
-<div align="center">
-  </a>
-
   <h1 align="center">CROWD DETECTION SYSTEM</h1>
  
  <p align="Justify">
@@ -67,6 +64,12 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
+<div align="center">
+  <a href="https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git">
+    <img src="Logo/image.jpg" alt="Logo" width="300" height="250">
+  </a>
+</div>
+<br /><br />
  Crowd Detection Systems are increasingly being deployed in various environments and settings. These systems are utilized in public spaces, events, transportation hubs, and other crowded areas to monitor and analyze crowd dynamics in real-time. The widespread deployment of crowd detection systems is driven by the need for enhanced public safety, security, and operational efficiency.
 <br /><br />
     <br />
