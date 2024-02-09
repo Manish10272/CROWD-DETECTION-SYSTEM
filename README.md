@@ -176,6 +176,7 @@ Follow these steps to install and set up the crowd detection system:
   <br>
   
   <li>Install Required Libraries:</li><br>
+  
   - Install OpenCV and TensorFlow using pip:
 
       pip install opencv <br>
