@@ -171,6 +171,7 @@ Follow these steps to install and set up the crowd detection system:
 <ul>
  <li>Set Up Python Environment:</li><br>
   - Install Python on your system if not already installed. You can download it from the official <b> Python website.</b>
+  <br>
 
   
   <li>Install Required Libraries:</li><br>
