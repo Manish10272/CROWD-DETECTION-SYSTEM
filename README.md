@@ -19,31 +19,8 @@
     <a href=""https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git""><strong>Explore the docs » </strong></a>
   </p>
 </div>
+
  
- <p align="Justify">
-   In the present environment, where technology and artificial intelligence is an emerging edge of evolution for the world that human live in. There is a wide research going on in the field of crowd                  behavior analysis, through which many problems that result in loss to human security and property are being dealt with.
-    <br />
-    <br />
-    With the expanding population and several problems arising due to crowded situations, the necessity of crowd detection is also at a raise. It includes assessing the number of individuals in the group and in
-    addition the appropriation of the crowd density in different regions of the group. Estimation of such crowd density can be done from the image of the crowded scene. In CNN approach, deep learning technique       is used to estimate the crowd density. Since, crowd behavior analysis is an emerging field in the scope of artificial intelligence, the problem as discussed can be relieved to a certain level by precognition     of stampede at the region of interest, i.e., pilgrim places.
-    <br />
-    <br />
-    Pilgrimage in a country like India, which ranks 2nd after China according to the report statistics of World Population Prospects as in 1st July, 2019, is a session gathering event which attracts large crowd
-    due to the importance given to the religious thoughts. The system so proposed is based on the concepts and approaches of computer vision, image analysis and deep learning. The crowd is analyzed and tracked       by the neural model are compared in context to the density limits of the defined area, which if exceed are marked as threat and an alert signal is displayed on the video feed as received by the
-    authorities.
-    <br />
-    <br />
-    In the current situation where COVID19 virus or CORONA VIRUS is declared as a pandemic disease due to which human life is facing dire consequences. The main focus of mostly all the countries and states is to     create an atmosphere of social distancing which is a crucial step in order to restrict this disease from spreading at a fierce pace. 
-    <br />
-    <br />
-    In such a situation where, social distancing is to be monitored by the officials personally, thereby causing a risk to their own self and their related family members, a solution such as Crowd Detection
-    System can come in handy to help out the officials.
-    <br />
-    <br />
-</div>
-
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
