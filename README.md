@@ -115,7 +115,9 @@ Ensure you have the following prerequisites before setting up the crowd detectio
 Install Python (if not already installed) from python.org.
 
 * Deep Learning Framework:
-  Choose and install a deep learning framework. For example, using pip for TensorFlow:
+  Choose and install a deep learning framework.
+
+  For example, using pip for TensorFlow:
 
   pip install tensorflow
 
