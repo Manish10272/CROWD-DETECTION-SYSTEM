@@ -180,8 +180,8 @@ CrowdSense goes beyond basic crowd counting by employing advanced behavioral ana
     
     Install OpenCV and TensorFlow using pip:
 
-      pip install opencv
-      pip install tensorflow
+      <b>pip install opencv </b>
+      <b>pip install tensorflow </b>
   
   <br>
   <li>Download Pre-trained Models:
