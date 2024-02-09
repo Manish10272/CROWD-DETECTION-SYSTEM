@@ -64,17 +64,18 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-<div align="center">
-  <a href="https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git">
-    <img src="Logo/image.jpg" alt="Logo" width="300" height="250">
-  </a>
-</div>
-<br /><br />
  Crowd Detection Systems are increasingly being deployed in various environments and settings. These systems are utilized in public spaces, events, transportation hubs, and other crowded areas to monitor and analyze crowd dynamics in real-time. The widespread deployment of crowd detection systems is driven by the need for enhanced public safety, security, and operational efficiency.
 <br /><br />
     <br />
     <br />
     <br />
+    <div align="center">
+  <a href="https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git">
+    <img src="Logo/image.jpg" alt="Logo" width="300" height="250">
+  </a>
+</div>
+<br /><br />
+
 <h3><strong>
 The technology employs sensors, cameras, and advanced algorithms to track crowd size, density, and movement patterns. It aids in preventing overcrowding, managing crowd flow, and responding promptly to potential security threats or emergencies. The deployment of crowd detection systems reflects a growing recognition of the importance of leveraging technology to ensure the well-being of individuals in crowded spaces and to optimize the overall management of public events and areas.
 </strong></h3>
