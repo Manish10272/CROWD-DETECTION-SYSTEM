@@ -169,46 +169,44 @@ CrowdSense goes beyond basic crowd counting by employing advanced behavioral ana
 
 Follow these steps to install and set up the crowd detection system:
 <ul>
- <li>Set Up Python Environment:</li><br>
-  Install Python on your system if not already installed. You can download it from the official <b> Python website.</b>
-  
+ <li>Set Up Python Environment:</li>
+  - Install Python on your system if not already installed. You can download it from the official <b> Python website.</b>
+  <br>
   <li>Install Required Libraries:</li><br>
   
-    Install OpenCV and TensorFlow using pip:
+  - Install OpenCV and TensorFlow using pip:
 
       pip install opencv
       pip install tensorflow
 
   
-  <li>Download Pre-trained Models:</li><br>
+  <li>Download Pre-trained Models:</li>
 
-  Choose a pre-trained model for crowd detection. For example, you can use a MobileNet SSD model trained on the COCO dataset.
+  - Choose a pre-trained model for crowd detection. For example, you can use a MobileNet SSD model trained on the COCO dataset.
   <br>
 
   <li>Write Crowd Detection Code: </li>
 
-  Create a Python script or Jupyter notebook to perform crowd detection using OpenCV and TensorFlow. Load the pre-trained model, process video frames, and detect crowds.
+  - Create a Python script or Jupyter notebook to perform crowd detection using OpenCV and TensorFlow. Load the pre-trained model, process video frames, and detect crowds.
  
   <br>
 
   <li>Test Your Crowd Detection System:  </li>
 
-    Use sample videos or webcam input to test your crowd detection system.
+  - Use sample videos or webcam input to test your crowd detection system.
 
   <br>
   
    <li>Documentation and Deployment:  </li>
-
-   Document your code, including details on how to use it, dependencies, and potential configuration options.
-   If applicable, consider deploying your crowd detection system in a production environment.
    
-
+  - Document your code, including details on how to use it, dependencies, and potential configuration options.
+  - If applicable, consider deploying your crowd detection system in a production environment.
+   
   <br>
   
   <li>Share and Collaborate:  </li>
     
-  Share your project on platforms like GitHub to allow collaboration and feedback from the community.
-   
+  - Share your project on platforms like GitHub to allow collaboration and feedback from the community. 
 
   <br>
   
