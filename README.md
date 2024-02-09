@@ -53,7 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
- Crowd Detection Systems are increasingly being deployed in various environments and settings. These systems are utilized in public spaces, events, transportation hubs, and other crowded areas to monitor and analyze crowd dynamics in real-time. The widespread deployment of crowd detection systems is driven by the need for enhanced public safety, security, and operational efficiency.
+ <P><STRONG>Crowd Detection Systems</STRONG> are increasingly being deployed in various environments and settings. These systems are utilized in public spaces, events, transportation hubs, and other crowded areas to monitor and analyze crowd dynamics in real-time. The widespread deployment of crowd detection systems is driven by the need for enhanced public safety, security, and operational efficiency.</P>
 <br /><br />
     <br />
     <br />
@@ -94,10 +94,30 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 <p align="Justify">
-A crowd detection system significantly benefits society by enhancing public safety, optimizing resource management, and contributing to efficient urban planning. By leveraging advanced technologies such as surveillance cameras and machine learning algorithms, these systems can monitor and analyze crowd dynamics in real-time. This capability is crucial in preventing overcrowding, identifying potential security threats, and enabling timely responses to emergencies. In crowded public spaces, transportation hubs, or events, the system aids in optimizing crowd flow, reducing congestion, and ensuring a safer and more organized environment. Moreover, the insights provided by crowd detection systems contribute to smarter urban planning, aiding authorities in making informed decisions for infrastructure development and public space management. Overall, these systems play a pivotal role in creating safer, more resilient communities and supporting the effective functioning of public spaces.
+CrowdSense is an innovative <P><STRONG>Crowd Detection Systems</STRONG> designed to enhance public safety and optimize urban planning by leveraging advanced technologies. Integrating Computer Vision and Deep Learning, CrowdSense gathers and processes real-time data from surveillance cameras and other sensors to monitor and analyze crowd dynamics. Unlike conventional systems that provide generic crowd information, CrowdSense tailors its insights based on specific environmental factors and user-defined parameters.
 
-</p>
-### Prerequisites
+</P>
+<br>
+
+### What it does
+<br>
+
+<ul>
+  <li><b>Behavioral Analysis and Anomaly Detection:</b>
+CrowdSense goes beyond basic crowd counting by employing advanced behavioral analysis. It detects anomalies within the crowd, such as sudden movements, unusual patterns, or behaviors that deviate from the norm, aiding in early identification of potential security threats.
+    </li>
+  <br>
+  
+  <li><b>Crowd Sentiment Analysis:</b>
+  CrowdSense incorporates sentiment analysis into its features, gauging the overall mood of the crowd. This valuable insight aids in understanding the emotional context of gatherings, which can be crucial for event planning, public relations, and emergency response.
+        </li>
+  <br>
+  
+  <li><b>Predictive Modeling for Crowd Trends:</b>
+    Leveraging machine learning algorithms, CrowdSense goes beyond current crowd conditions to predict future trends. It considers historical data, weather forecasts, and previous event patterns to anticipate potential crowd surges or changes in behavior.
+    </li>
+  <br>
+    ### Prerequisites
 
 Ensure you have the following prerequisites before setting up the crowd detection system:
 * <h3>Python:</h3>
