@@ -131,7 +131,7 @@ CrowdSense goes beyond basic crowd counting by employing advanced behavioral ana
     
 <!-- PREREQUISITES -->
 ### Prerequisites
-<br>
+
 <b>Hardware</b><br>
 
 <ul>
