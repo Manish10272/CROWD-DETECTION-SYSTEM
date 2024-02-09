@@ -245,9 +245,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - 2022d1r003@mietjammu.in
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git](https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -256,16 +256,10 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+<p>
+The accomplishment of this Major Project report on “CROWD DETECTION SYSTEM” benefits of the guidance, moral support and encouragement bestowed on me throughout my work period. For this, I wish to express my sincere gratitude and appreciation to all those who gave me the possibility to complete this report. I would like to acknowledge with much appreciation, the crucial role of the faculty of MCA department of MIET, Jammu, who gave me permission to use all the resources and material required to complete my report. I cannot express enough thanks to Prof. Ankur Gupta for their continued support and encouragement to work on my own and discover new things in this field. Lastly, I must offer my sincere appreciation for the receipt of affectionate care and opportunities to Model Institute of Engineering and Technology (MIET) for providing me with such a wonderful work environment. My accomplishment of this report could not have been possible without the support of my classmates and my family, who provided me with love, support and encouragement when times got rough.
+</p>
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
