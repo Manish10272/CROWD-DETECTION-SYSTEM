@@ -9,11 +9,16 @@
   </a>
 
   <h1 align="center">CROWD DETECTION SYSTEM</h1>
-
+  <p align="center">
+    A crowd detection system is a technological solution designed to identify, monitor, and analyze the presence and behavior of crowds within a given area. This system typically relies on advanced sensor technologies, such as surveillance cameras, lidar, radar, or a combination of these, along with sophisticated software algorithms, often utilizing computer vision and machine learning techniques.
+    <br />
+    <br />
+    <br />
     <a href="https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git"><strong>View Demo » </strong></a>
     ||
     <a href=""https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git""><strong>Explore the docs » </strong></a>
   </p>
+</div>
  
  <p align="Justify">
    In the present environment, where technology and artificial intelligence is an emerging edge of evolution for the world that human live in. There is a wide research going on in the field of crowd                  behavior analysis, through which many problems that result in loss to human security and property are being dealt with.
