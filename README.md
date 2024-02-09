@@ -117,7 +117,7 @@ Install Python (if not already installed) from python.org.
 * Deep Learning Framework:
   Choose and install a deep learning framework.
 
-  For example, using pip for TensorFlow:
+  For example, using pip for <h3>TensorFlow:</h3>
 
   pip install tensorflow
 
