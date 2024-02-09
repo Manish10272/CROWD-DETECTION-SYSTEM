@@ -117,9 +117,8 @@ Install Python (if not already installed) from python.org.
 * <h3>Deep Learning Framework:</h3>
 Choose and install a deep learning framework.
 
-For example, using pip for <mark>TensorFlow:</mark>
-
-  <mark>pip install tensorflow </mark>
+For example, using pip for TensorFlow:
+<span style="background-color: #FFFF00">pip install tensorflow </span>
 
 * Computer Vision Library:
   Install OpenCV for image processing and computer vision tasks:
