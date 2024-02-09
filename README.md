@@ -168,45 +168,48 @@ CrowdSense goes beyond basic crowd counting by employing advanced behavioral ana
 ### Installation
 
 Follow these steps to install and set up the crowd detection system:
-
-1. **Set Up Python Environment:**
-   -Install Python on your system if not already installed. You can download it from the official <b> Python website.</b>
-
-2. **Install Required Libraries:**
-   -Install OpenCV and TensorFlow using pip:
+<ul>
+ <li>Set Up Python Environment:</li><br>
+  Install Python on your system if not already installed. You can download it from the official <b> Python website.</b>
+  
+  <li>Install Required Libraries:</li><br>
+  
+    Install OpenCV and TensorFlow using pip:
 
       pip install opencv
       pip install tensorflow
+
   
-3. **Download Pre-trained Models:**
-   -Choose a pre-trained model for crowd detection. For example, you can use a MobileNet SSD model trained on the COCO dataset.
+  <li>Download Pre-trained Models:</li><br>
+
+  Choose a pre-trained model for crowd detection. For example, you can use a MobileNet SSD model trained on the COCO dataset.
   <br>
 
-  <li>Write Crowd Detection Code:
+  <li>Write Crowd Detection Code: </li>
 
   Create a Python script or Jupyter notebook to perform crowd detection using OpenCV and TensorFlow. Load the pre-trained model, process video frames, and detect crowds.
-  </li>
+ 
   <br>
 
-  <li>Test Your Crowd Detection System:
+  <li>Test Your Crowd Detection System:  </li>
 
     Use sample videos or webcam input to test your crowd detection system.
-  </li>
+
   <br>
   
-   <li>Documentation and Deployment:
+   <li>Documentation and Deployment:  </li>
 
    Document your code, including details on how to use it, dependencies, and potential configuration options.
    If applicable, consider deploying your crowd detection system in a production environment.
    
-  </li>
+
   <br>
   
-  <li>Share and Collaborate: 
+  <li>Share and Collaborate:  </li>
     
   Share your project on platforms like GitHub to allow collaboration and feedback from the community.
    
-   </li>
+
   <br>
   
 </ol>
