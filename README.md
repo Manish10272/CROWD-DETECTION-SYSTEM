@@ -1,4 +1,11 @@
 <a name="readme-top"></a>
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git">
+    <img src="Logo/image.jpg" alt="Logo" width="80" height="80">
+  </a>
+
 <div align="center">
   </a>
 
