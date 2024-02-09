@@ -164,10 +164,10 @@ CrowdSense goes beyond basic crowd counting by employing advanced behavioral ana
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-- INSTALLATION -->
 ### Installation
 
-<h5>Follow these steps to install and set up the crowd detection system:</h5>
+Follow these steps to install and set up the crowd detection system:
 
 1. **Set Up Python Environment:**
   
