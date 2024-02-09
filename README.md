@@ -9,7 +9,7 @@
   </a>
 
   <h1 align="center">CROWD DETECTION SYSTEM</h1>
-  <p align="center">
+  <p align="Justify">
     A crowd detection system is a technological solution designed to identify, monitor, and analyze the presence and behavior of crowds within a given area. This system typically relies on advanced sensor technologies, such as surveillance cameras, lidar, radar, or a combination of these, along with sophisticated software algorithms, often utilizing computer vision and machine learning techniques.
     <br />
     <br />
