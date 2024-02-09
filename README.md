@@ -219,25 +219,6 @@ CrowdSense goes beyond basic crowd counting by employing advanced behavioral ana
 </ol>
 
 
-
-
-2. Navigate to the Project Directory:
-
-cd Crowd-Detection-System
-
-3. Install Python Packages:
-
-pip install -r requirements.txt
-
-5. Install NPM packages
-   ```sh
-   npm install
-   ```
-6. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
