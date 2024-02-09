@@ -87,10 +87,11 @@ The technology employs sensors, cameras, and advanced algorithms to track crowd 
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Python][Python.org]][Python-url]
-* [![OpenCV][OpenCV.org]][OpenCV-url]
-* [![Keras][Keras.io]][Keras-url]
-* [![TensorFlow][TensorFlow.org]][TensorFlow-url]
+* [![Python][Python.org]][https://www.python.org/]
+* [![OpenCV][OpenCV.org]][https://opencv.org/]
+* [![Keras][Keras.io]][https://keras.io/]
+* [![TensorFlow][TensorFlow.org]][https://www.tensorflow.org/]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
