@@ -113,6 +113,12 @@ To get a local copy up and running follow these simple example steps.
 Ensure you have the following prerequisites before setting up the crowd detection system:
 * Python:
 Install Python (if not already installed) from python.org.
+<br>
+* Deep Learning Framework:
+  Choose and install a deep learning framework. For example, using pip for TensorFlow:
+
+  pip install tensorflow
+
 
 ### Installation
 
