@@ -256,7 +256,7 @@ Project Link: [https://github.com/Manish10272/CROWD-DETECTION-SYSTEM.git](https:
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-<p>
+<p align="Justify">
 The accomplishment of this Major Project report on “CROWD DETECTION SYSTEM” benefits of the guidance, moral support and encouragement bestowed on me throughout my work period. For this, I wish to express my sincere gratitude and appreciation to all those who gave me the possibility to complete this report. I would like to acknowledge with much appreciation, the crucial role of the faculty of MCA department of MIET, Jammu, who gave me permission to use all the resources and material required to complete my report. I cannot express enough thanks to Prof. Ankur Gupta for their continued support and encouragement to work on my own and discover new things in this field. Lastly, I must offer my sincere appreciation for the receipt of affectionate care and opportunities to Model Institute of Engineering and Technology (MIET) for providing me with such a wonderful work environment. My accomplishment of this report could not have been possible without the support of my classmates and my family, who provided me with love, support and encouragement when times got rough.
 </p>
 
