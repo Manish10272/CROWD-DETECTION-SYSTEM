@@ -115,7 +115,19 @@ CrowdSense goes beyond basic crowd counting by employing advanced behavioral ana
   
   <li><b>Predictive Modeling for Crowd Trends:</b>
     Leveraging machine learning algorithms, CrowdSense goes beyond current crowd conditions to predict future trends. It considers historical data, weather forecasts, and previous event patterns to anticipate potential crowd surges or changes in behavior.
-    </li>
+    </ul>
+<br>
+
+<!-- WHY IT'S USEFUL -->
+### Why it's Useful
+<ul><br>
+  <li><strong>Enhanced Public Safety:</strong> CrowdSense contributes to improved public safety by providing real-time insights into crowd behavior, enabling authorities to proactively address potential security threats or emergency situations.</li>
+  <br>
+  <li><strong>Optimal Resource Allocation:</strong> The system aids in optimizing resource allocation by offering data-driven recommendations for crowd management, ensuring efficient deployment of personnel and resources during events or in public spaces.</li>
+  <br>
+  <li><strong>Smart Urban Planning:</strong> CrowdSense assists in smart urban planning by providing valuable data on crowd movement, density, and behavior. This information can be utilized to optimize public spaces, transportation routes, and infrastructure development.</li>
+  <br>
+   <li><strong>Timely Emergency Response:</strong> With its real-time monitoring capabilities, CrowdSense facilitates timely and informed emergency responses, helping mitigate risks and ensuring the safety of individuals in crowded environments.</li>
   <br>
     ### Prerequisites
 
