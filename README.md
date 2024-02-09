@@ -101,6 +101,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -226,14 +227,13 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
 <!-- Technology Shields and URLs -->
+
 [OpenCV.shield]: https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
-[OpenCV.url]: https://opencv.org/
+[OpenCV.url]: #  <!-- Replace with the appropriate link -->
 
 [Python.shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[Python.url]: https://www.python.org/
+[Python.url]: #  <!-- Replace with the appropriate link -->
 
 [Keras.shield]: https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white
 [Keras.url]: https://keras.io/
@@ -241,7 +241,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [TensorFlow.shield]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 [TensorFlow.url]: https://www.tensorflow.org/
 
-<!-- Additional Technologies Shields and URLs -->
 [ML.shield]: https://img.shields.io/badge/Machine_Learning_Algorithms-4285F4?style=for-the-badge&logo=google&logoColor=white
 [ML.url]: #  <!-- Replace with the appropriate link -->
 
@@ -256,4 +255,5 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [HCI.shield]: https://img.shields.io/badge/Human_Computer_Interaction-673AB7?style=for-the-badge&logo=human&logoColor=white
 [HCI.url]: #  <!-- Replace with the appropriate link -->
+
 
